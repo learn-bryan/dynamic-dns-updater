@@ -1,0 +1,6 @@
+# This is an example env file. Set the values for you configuration and save 
+# it as `.env` in the same directory.
+
+DO_API_TOKEN=your_digitalocean_api_token
+DOMAIN_NAME=your_domain_name
+RECORD_NAME=subdomain
